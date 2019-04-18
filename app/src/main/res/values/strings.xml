@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MCC Course Finder</string>
+    <string name="hello_courses">Hello MCC Courses!</string>
+</resources>
